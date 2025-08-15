@@ -1,0 +1,17 @@
+{
+  "domain": "lifesmart",
+  "name": "LifeSmart IR Climate Controller",
+  "codeowners": [
+    "@holmanlam"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/holmanlam/lifesmart-ir-climate-controller",
+  "integration_type": "hub",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/holmanlam/lifesmart-ir-climate-controller/issues",
+  "requirements": [
+    "websocket-client"
+  ],
+  "version": "v1.0.0"
+}
