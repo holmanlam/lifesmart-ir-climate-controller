@@ -1,0 +1,5 @@
+{
+    "name": "LifeSmart IR Climate Controller",
+    "homeassistant": "2025.8.1",
+    "hacs": "2.0.5"
+}
